@@ -1,0 +1,1 @@
+To open the website created click on index file 
